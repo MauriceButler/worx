@@ -14,8 +14,12 @@
     "node": ">= 0.8.x < 0.9.0"
   },
   "dependencies": {
+    "async": "0.2.x",
+    "fstream": "0.1.x",
+    "mkdirp": "0.3.x",
     "scaffolder": "0.7.x",
     "taskify": "0.5.x",
+    "out": "0.4.x",
     "underscore": "1.4.x"
   },
   "devDependencies": {},
