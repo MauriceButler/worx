@@ -6,7 +6,7 @@
     "blackberry",
     "webworks"
   ],
-  "version": "0.0.2",
+  "version": "0.0.3",
   "bin": {
     "worx": "./bin/worx"
   },
