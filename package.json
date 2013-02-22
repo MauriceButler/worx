@@ -2,8 +2,11 @@
   "name": "worx",
   "description": "BlackBerry Webworks Dev Helper",
   "author": "Damon Oehlman <damon.oehlman@sidelab.com>",
-  "tags": ["blackberry", "webworks"],
-  "version": "0.0.0",
+  "tags": [
+    "blackberry",
+    "webworks"
+  ],
+  "version": "0.0.1",
   "bin": {
     "worx": "./bin/worx"
   },
@@ -15,8 +18,7 @@
     "taskify": "0.5.x",
     "underscore": "1.4.x"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git://github.com/DamonOehlman/bbdev.git"
